@@ -25,14 +25,11 @@ Things you may want to cover:
 
 Bonjour,
 
-Voici le dossier "projet" qui contient les 3 dossiers RAILS:
+Merci de vous assurer d'avoir la bonne version Ruby 2.5.1 ou 2.7.1 ainsi que Rails 5.2.4.2.
 
-- freedoc
-- airbnb
-- the gossipproject
+Voici une application qui vous permettra de prendre un RDV avec un docteur dans votre ville.
 
-Pour chaque commande RAILS: Taper "bundle exec" avant chaque commande
-exemple: "bundle exec rails console"
+Bon retablissement.
 
 
 
